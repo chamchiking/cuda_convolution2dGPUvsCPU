@@ -1,4 +1,4 @@
-## convolution Programming with CUDA
+## Convolution Programming with CUDA
 
 ## Contact
 Suggestions for specific content can be sent to: chamj61047@gmail.com
